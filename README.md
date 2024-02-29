@@ -2,16 +2,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Serdar!" />
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi+there+%F0%9F%91%8B;I'm+Serdar!" />
 </p>
 
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey 🇹🇷</h3>
 <h5 align="center">Below are a few links you can visit and some statistics you can look at</h5>
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img alt="linkedin" title="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#" target="_blank">
     <img alt="portfolio" title="Portfolio"
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
