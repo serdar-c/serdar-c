@@ -31,16 +31,24 @@
 
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,angular,react,dotnet,nodejs"></p>
 
-## Stats On GitHub ⚡
+## Stats ⚡
 
 <p align="center">
   <img alt="stats" title="Stats"
     src="https://github-readme-stats.vercel.app/api?username=serdar-c&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-## Activities On GitHub 🔥
+## Activities 🔥
 
 <p align="center">
   <img title="activities" alt="Activities"
     src="https://github-readme-streak-stats.herokuapp.com/?user=serdar-c&theme=dark&hide_border=true&stroke=f53b3b" />
 </p>
+
+## Contributions 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serdar-c/serdar-c/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serdar-c/serdar-c/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/serdar-c/serdar-c/output/github-contribution-grid-snake.svg">
+</picture>
