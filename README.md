@@ -15,7 +15,8 @@
   <a href="https://github.com/serdar-c?tab=repositories&sort=stargazers" target="_blank">
     <img alt="total stars" title="Total stars on GitHub"
       src="https://custom-icon-badges.demolab.com/github/stars/serdar-c?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star" /></a>
-  <a href="https://github.com/serdar-c" target="_blank"><img alt="followers" title="Follow me on Github"
+  <a href="https://github.com/serdar-c" target="_blank">
+    <img alt="followers" title="Follow me on Github"
       src="https://img.shields.io/github/followers/serdar-c?color=236ad3&style=for-the-badge&logo=github&label=Follow" /></a>
 </p>
 
@@ -25,13 +26,13 @@
 
 ## Languages, Frameworks and Tools ⚒️
 
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,angular,react,dotnet,nodejs"></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,react,dotnet,nodejs" />
 
 ## Stats ⚡
 
 <p align="center">
   <img alt="stats" title="Stats"
-    src="https://github-readme-stats.vercel.app/api?username=serdar-c&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+    src="https://github-readme-stats.vercel.app/api?username=serdar-c&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" />
 </p>
 
 ## Activities 🔥
