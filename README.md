@@ -9,13 +9,13 @@
 <h5 align="center">Below are a few links you can visit and some statistics you can look at</h5>
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://serdar-c.github.io">
     <img alt="portfolio" title="Portfolio"
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="https://github.com/serdar-c?tab=repositories&sort=stargazers" target="_blank">
+  <a href="https://github.com/serdar-c?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
       src="https://custom-icon-badges.demolab.com/github/stars/serdar-c?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star" /></a>
-  <a href="https://github.com/serdar-c" target="_blank">
+  <a href="https://github.com/serdar-c">
     <img alt="followers" title="Follow me on Github"
       src="https://img.shields.io/github/followers/serdar-c?color=236ad3&style=for-the-badge&logo=github&label=Follow" /></a>
 </p>
