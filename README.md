@@ -22,7 +22,7 @@
 
 ## What I'm Doing 👨🏽‍💻
 
-- 🌱 I'm currently learning **.NET Core & more**
+- 🌱 I'm currently learning **.NET Core, Node.js & more**
 
 ## Languages, Frameworks and Tools ⚒️
 
@@ -30,13 +30,13 @@
 
 ## Projects ☄
 
-### Node.js Gravatar XML-RPC API Library <img src="https://img.shields.io/badge/private-D10000" />
+### Node.js Gravatar XML-RPC API Library <img src="https://img.shields.io/badge/Private-D10000" />
 A library to use the Gravatar XML-RPC API in Node.js.
 
-### GitHub Random Avatar <img src="https://img.shields.io/badge/private-D10000" />
+### GitHub Random Avatar <img src="https://img.shields.io/badge/Private-D10000" />
 It generates a random avatar and uploads it to Gravatar to change your avatar on GitHub and other apps that use the Gravatar API.
 
-### GitHub Random Avatar Action <img src="https://img.shields.io/badge/private-D10000" />
+### GitHub Random Avatar Action <img src="https://img.shields.io/badge/Private-D10000" />
 It generates a random avatar and uploads it to Gravatar to programmatically change your avatar on GitHub and other apps that use the Gravatar API.
 
 ###### (Which is currently active on my GitHub profile. It changes my GitHub avatar every 12 hours. You can check if you wish.)
