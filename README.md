@@ -58,7 +58,7 @@ It generates a random avatar and uploads it to Gravatar to programmatically chan
 ## Activities 🔥
 
 <p align="center">
-  <img title="activities" alt="Activities"
+  <img alt="activities" title="Activities"
     src="https://github-readme-streak-stats.herokuapp.com/?user=serdar-c&theme=dark&hide_border=true&stroke=f53b3b" />
 </p>
 
