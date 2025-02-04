@@ -19,7 +19,7 @@
 
 ## What I'm Doing 👨🏽‍💻
 
-- 🌱 I'm currently learning to **train and fine-tune LLMs**
+- 🌱 I'm currently working on **training and fine-tuning LLMs**
 
 ## Languages, Frameworks and Tools ⚒️
 
