@@ -19,11 +19,11 @@
 
 ## What I'm Doing 👨🏽‍💻
 
-- 🌱 I'm currently learning **.NET Core, Node.js & more**
+- 🌱 I'm currently learning to **train and fine-tune LLMs**
 
 ## Languages, Frameworks and Tools ⚒️
 
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,react,dotnet,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,react,dotnet,nodejs,python" />
 
 ## Projects ☄
 
@@ -37,6 +37,8 @@ It generates a random avatar and uploads it to Gravatar to change your avatar on
 It generates a random avatar and uploads it to Gravatar to programmatically change your avatar on GitHub and other apps that use the Gravatar API.
 
 ###### (Which is currently active on my GitHub profile. It changes my GitHub avatar every 12 hours. You can check if you wish.)
+
+### And more...
 
 ## LeetCode 🚀
 
