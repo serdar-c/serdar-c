@@ -17,10 +17,6 @@
       src="https://img.shields.io/github/followers/serdar-c?color=236ad3&style=for-the-badge&logo=github&label=Follow" /></a>
 </p>
 
-## What I'm Doing 👨🏽‍💻
-
-- 🌱 I'm currently working on **training and fine-tuning LLMs**
-
 ## Languages, Frameworks and Tools ⚒️
 
 <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,dotnet,nodejs,python" />
